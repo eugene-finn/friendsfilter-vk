@@ -1,4 +1,4 @@
-## LoftSchool example project
+## vk.com friendsfilter project
 
 ### Доступные команды
 
